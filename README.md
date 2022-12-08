@@ -1,3 +1,5 @@
+![Coffee Husky](https://media4.giphy.com/media/G3Eoq3rxJQlR0AFdKu/giphy.gif?cid=ecf05e47t5ni3q9531kr5q1s8x99cwzlr2a8z15hbkzrh0xj&rid=giphy.gif&ct=g)
+
 # Malia Horton
 
 I am a UX researcher, graphic designer, who is open to new opportunities.
@@ -16,3 +18,4 @@ I am currently finishing studying graphic design at Eastern Washington Universit
 * HTML
 * CSS
 * JS
+
