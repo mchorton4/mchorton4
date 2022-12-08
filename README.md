@@ -9,6 +9,8 @@ I am currently finishing studying graphic design at Eastern Washington Universit
 ## Skills
 * Web Design
 * User Expierence
+* Graphic Design
+* 
 
 ## Languages
 * HTML
